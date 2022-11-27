@@ -2496,7 +2496,7 @@ nav {
   }
 
   .nav-list {
-    display: flex;
+    display: none;
     opacity: 0;
     width: 95%;
     height: 50em;
